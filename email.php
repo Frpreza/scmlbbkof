@@ -1,5 +1,5 @@
 <?php
-$pulberaja = 'rezakun70@gmail.com';// GANTI EMAIL KAMU DISINI
+$pulberaja = 'frpreza01@gmail.com';// GANTI EMAIL KAMU DISINI
 
 
 ?>
